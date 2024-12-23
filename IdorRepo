@@ -1,2 +1,3 @@
 https://hackerone.com/reports/2483666 - Improper Access Control or IDOR on Embedded Submission Form Full Report:- https://medium.com/pinoywhitehat/idor-on-hackerone-embedded-submission-form-9e59c6f044b3 - Showing a good recon methodology
 https://hackerone.com/reports/2487889 - Insecure Direct Object Reference (IDOR) Allows Viewing Private Report Details via /bugs.json Endpoint | Vulnerable parameters in the request
+https://hackerone.com/reports/2122671 - IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query | Intersting report due to their confusion for deciding sevirity for based on some previous reports and give example of 2 reports in one reports
