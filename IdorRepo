@@ -3,3 +3,6 @@ https://hackerone.com/reports/2483666 - Improper Access Control or IDOR on Embed
 https://hackerone.com/reports/2487889 - Insecure Direct Object Reference (IDOR) Allows Viewing Private Report Details via /bugs.json Endpoint | Vulnerable parameters in the request
 
 https://hackerone.com/reports/2122671 - IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query | Intersting report due to their confusion for deciding sevirity for based on some previous reports and give example of 2 reports in one reports
+
+https://hackerone.com/reports/1501611 - An attacker can archive and unarchive any structured scope object on HackerOne | Interesting report due to miscommunication and don't find the vulunerabilty to security prespective but reporter is presistent for his report and he belives that endpoint is vulnerable
+
