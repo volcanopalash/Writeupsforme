@@ -12,9 +12,9 @@ https://hackerone.com/reports/2442008 - IDOR in Attachment disclosure via summar
 
 https://hackerone.com/reports/1592587 - IDOR - Delete technical skill assessment result & Gained Badges result of any user | nice find in linkedin that attacker finds the endpoint for deleting skill of a user account and get the information from any users profile uid and brute forcing skill id
 
+https://hackerone.com/reports/2586584 - IDOR leads to PII Leak | Idor leaking a user email and name by incremental user id 
 
-
-
+https://hackerone.com/reports/783708 - IDOR in semrush academy | In this report the attacker can enroll the victim in any course and the reporter trying to understand the triager that how much attacker can do with a userId if server response with userId
 
 
 
