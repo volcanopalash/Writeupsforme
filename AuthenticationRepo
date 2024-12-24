@@ -1,1 +1,3 @@
 https://hackerone.com/reports/970157 - Update Victim's Password - Bypass old password by unrestricted rate limiting 
+
+https://hackerone.com/reports/876295 - Misuse of an authentication cookie combined with a path traversal on app.starbucks.com permitted access to restricted data
