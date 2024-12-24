@@ -10,7 +10,7 @@ https://hackerone.com/reports/1969141 - Insecure Direct Object Reference (IDOR) 
 
 https://hackerone.com/reports/2442008 - IDOR in Attachment disclosure via summary report | Cool report due to it's critical severity bcz the researcher made a good writeup with all explanation and give hint about how to focus on a crud operations
 
-
+https://hackerone.com/reports/1592587 - IDOR - Delete technical skill assessment result & Gained Badges result of any user | nice find in linkedin that attacker finds the endpoint for deleting skill of a user account and get the information from any users profile uid and brute forcing skill id
 
 
 
