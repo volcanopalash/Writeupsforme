@@ -26,7 +26,7 @@ https://hackerone.com/reports/227522 - IDOR in editing courses | Attacker test t
 
 https://hackerone.com/reports/950881 - IDOR when editing email leads to Account Takeover on Atavist | Valunerable end point of changing password and vulnerable parameter Id that is squential that lead to anyone account takeover.
 
-
+https://hackerone.com/reports/861849 - Idor on the DELETE /comments/ | Reporte find the way to see the comment context in response bcz the Id is the vulnerable parameter 
 
 
 
