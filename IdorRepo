@@ -16,7 +16,7 @@ https://hackerone.com/reports/2586584 - IDOR leads to PII Leak | Idor leaking a 
 
 https://hackerone.com/reports/783708 - IDOR in semrush academy | In this report the attacker can enroll the victim in any course and the reporter trying to understand the triager that how much attacker can do with a userId if server response with userId
 
-
+https://hackerone.com/reports/1410498 - IDOR: leak buyer info & Publish/Hide foreign comments | Two vulnerable parameters that can leak of private information of buyer and it's owner
 
 
 
