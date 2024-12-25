@@ -23,3 +23,15 @@ https://hackerone.com/reports/1592596 - Sensei LMS IDOR to send message | Vulner
 https://hackerone.com/reports/1182465 - IDOR on www.acronis.com API lead to steal private business user information | in this api token that in url parameter lead to leak as idor
 
 https://hackerone.com/reports/227522 - IDOR in editing courses | Attacker test to adding the course in redancy domain and check request in burp and find the id parameter vulnerable to idor and can remove courses from a user account by tampering Id.
+
+https://hackerone.com/reports/950881 - IDOR when editing email leads to Account Takeover on Atavist | Valunerable end point of changing password and vulnerable parameter Id that is squential that lead to anyone account takeover.
+
+
+
+
+
+
+
+
+
+
