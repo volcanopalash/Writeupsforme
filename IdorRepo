@@ -20,5 +20,5 @@ https://hackerone.com/reports/1410498 - IDOR: leak buyer info & Publish/Hide for
 
 https://hackerone.com/reports/1592596 - Sensei LMS IDOR to send message | Vulnerable version of LMS that can any student sees private messages and send reply to any student by the id parameter
 
-
+https://hackerone.com/reports/1182465 - IDOR on www.acronis.com API lead to steal private business user information | in this api token that in url parameter lead to leak as idor
 
