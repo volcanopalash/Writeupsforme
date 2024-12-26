@@ -28,7 +28,7 @@ https://hackerone.com/reports/950881 - IDOR when editing email leads to Account 
 
 https://hackerone.com/reports/861849 - Idor on the DELETE /comments/ | Reporte find the way to see the comment context in response bcz the Id is the vulnerable parameter 
 
-
+https://hackerone.com/reports/1085743 - No error thrown when IDOR attempted while editing address | the id is sequential and maked new address when edit the address from account1 to account2
 
 
 
