@@ -32,6 +32,6 @@ https://hackerone.com/reports/1085743 - No error thrown when IDOR attempted whil
 
 https://hackerone.com/reports/2586641 - IDOR leads to view other user Biographical details (Possible PII LEAK) | Reporter find the vulnerable endpoint in which user1 can see user2 Personal data just by change Id
 
-
+https://hackerone.com/reports/766437 - Thailand - Insecure Direct Object Reference permits an unauthorized user to transfer funds from a victim using only the victims Starbucks card | An attacker can change the card number of victim by using the dev tool of chrome can change the value of field and no validation in client side
 
 
