@@ -1,0 +1,1 @@
+https://hackerone.com/reports/2476149 - Confirmed #2118458: Intentional redirect from www.hackerone.com to domain which is up for sale | Reporter find that a endpoint in hackerone direct redirect to another domain and it can be potential to start attack from there and start attacking and steal the data of a user
