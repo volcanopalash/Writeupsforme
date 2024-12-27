@@ -40,5 +40,22 @@ https://hackerone.com/reports/547663 - IDOR in changing shared file name | repor
 
 https://hackerone.com/reports/868590 - IDOR on deleting drafts on https://apps.topcoder.com/wiki/users/viewmydrafts.action via discardDraftId parameter | Reporter finded the vulnerable endpoint where url query parameter use guessable numeric Ids
 
+https://hackerone.com/reports/2586662 - IDOR : Modify other users demographic details | Reporter find a vuln endpoint and parameter what uses sequential numeric ids
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
