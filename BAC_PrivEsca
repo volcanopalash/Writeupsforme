@@ -1,0 +1,1 @@
+https://hackerone.com/reports/195134 - User with guest access can access private merge requests | In Gitlab there is a Merge Functionality that A guest user to a private group, cannot access a project's merge requests. However, through the subscription API, an attacker can (un)subscribe itself to a merge request, revealing private information that shouldn't be accessible.
