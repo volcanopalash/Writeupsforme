@@ -42,7 +42,7 @@ https://hackerone.com/reports/868590 - IDOR on deleting drafts on https://apps.t
 
 https://hackerone.com/reports/2586662 - IDOR : Modify other users demographic details | Reporter find a vuln endpoint and parameter what uses sequential numeric ids
 
-
+https://hackerone.com/reports/663431 - IDOR in Bugs overview enables attacker to determine the date range a hackathon was active | reporter find in hackerone that there is an endpoint is vulnerable to ids array which pass as hacktons 
 
 
 
