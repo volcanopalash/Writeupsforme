@@ -46,7 +46,7 @@ https://hackerone.com/reports/663431 - IDOR in Bugs overview enables attacker to
 
 https://hackerone.com/reports/1698006 - IDOR [mtnmobad.mtnbusiness.com.ng] | There is an endpoint that leaks ids and emails of other users with the help of that ids and emails attacker can update their private information with update profile request
 
-
+https://hackerone.com/reports/1372216 - IDOR in "external status check" API leaks data about any status check on the instance | 
 
 
 
