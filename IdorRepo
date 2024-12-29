@@ -44,6 +44,7 @@ https://hackerone.com/reports/2586662 - IDOR : Modify other users demographic de
 
 https://hackerone.com/reports/663431 - IDOR in Bugs overview enables attacker to determine the date range a hackathon was active | reporter find in hackerone that there is an endpoint is vulnerable to ids array which pass as hacktons 
 
+https://hackerone.com/reports/1698006 - IDOR [mtnmobad.mtnbusiness.com.ng] | There is an endpoint that leaks ids and emails of other users with the help of that ids and emails attacker can update their private information with update profile request
 
 
 
