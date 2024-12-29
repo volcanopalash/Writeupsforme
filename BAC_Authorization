@@ -2,7 +2,7 @@ https://hackerone.com/reports/195134 - User with guest access can access private
 
 https://hackerone.com/reports/791775 - Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO | Reporter find in shopify instance and singup the instance first and than in your profile update the email address and email system send confirmation link to old email address rather than sent to new mail address and attacker can takeover that account
 
-
+https://hackerone.com/reports/796808 - [Part II] Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation | reporter found user can change their email prior to receiving the verification message on their original email. i.e. the same technique
 
 
 
