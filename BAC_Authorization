@@ -1,2 +1,25 @@
-
 https://hackerone.com/reports/195134 - User with guest access can access private merge requests in gitlab | In Gitlab there is a Merge Functionality that A guest user to a private group, cannot access a project's merge requests. However, through the subscription API, an attacker can (un)subscribe itself to a merge request, revealing private information that shouldn't be accessible.
+
+https://hackerone.com/reports/791775 - Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO | Reporter find in shopify instance and singup the instance first and than in your profile update the email address and email system send confirmation link to old email address rather than sent to new mail address and attacker can takeover that account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
