@@ -48,10 +48,7 @@ https://hackerone.com/reports/1698006 - IDOR [mtnmobad.mtnbusiness.com.ng] | The
 
 https://hackerone.com/reports/1372216 - IDOR in "external status check" API leaks data about any status check on the instance | 
 
-
-
-
-
+https://hackerone.com/reports/661978 - IDOR bug to See hidden slowvote of any user even when you dont have access right | three user that one vote , second one is not authorized and third one can see the slowvote 
 
 
 
