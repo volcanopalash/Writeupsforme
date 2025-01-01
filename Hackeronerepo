@@ -1,1 +1,3 @@
 https://hackerone.com/reports/386997 - Private program policy page still accessible after user left the program | Information disclouser in a private program details which is happning bcz if you are invited to a private program and if you submitted a report and leave that private program then you still see the information of that program.
+
+https://hackerone.com/reports/291721 - IDOR on Program Visibilty (Revealed / Concealed) against other team members | reporter find the way to see the data of a security private team
