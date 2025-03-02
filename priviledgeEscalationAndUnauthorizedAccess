@@ -1,0 +1,1 @@
+https://hackerone.com/reports/2188569 | Privilege escalation - Support-Contributor to Support and Product Admin via `/api/v2/██████` . No ADMIN PRIVILEGE required. | reporter found the endpoint and a understanding source code of priviledge escalation
