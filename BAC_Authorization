@@ -8,7 +8,7 @@ https://hackerone.com/reports/322985 - The attacker was able to send a password 
 
 https://hackerone.com/reports/910300 - Email Confirmation Bypass in your-store.myshopify.com which leads to privilege escalation | In shopify the attacker find that he can change victim id to attacker id and can verify by his email id and can set password and enable 2fa by his emailid
 
-
+https://hackerone.com/reports/2891449 - Object Level access control leads to reading user's full requests, sessions, and error messages | In this reporter get that endpoint of https://proze.yelp.com/app/login where a asp.net website has a information disclousure /tmwebapi/elmah.axd from this diclose of admin users and passwords of users 
 
 
 
